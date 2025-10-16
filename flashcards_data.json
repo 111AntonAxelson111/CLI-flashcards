@@ -1,0 +1,90 @@
+{
+    "settings": { 
+        "n_user_options": 8,
+        "max_correct_user_choices": 2,
+        "options_indent": 4
+    },
+    "not_done": {
+        "piano": {
+            "descriptions": [
+                "it makes music",
+                "it has black and white keys",
+                "it is played with fingers",
+                "it can be acoustic or digital"
+            ],
+            "counter": 2,
+            "group": "B"
+        },
+        "bicycle": {
+            "descriptions": [
+                "it has two wheels",
+                "it is powered by pedaling",
+                "it is used for transportation or exercise",
+                "it has handlebars"
+            ],
+            "counter": 2,
+            "group": "B"
+        },
+        "mountain": {
+            "descriptions": [
+                "it is part of Earth's surface",
+                "it is very tall",
+                "it can have snow on top",
+                "you can climb it"
+            ],
+            "counter": 2,
+            "group": "B"
+        },
+        "coffee": {
+            "descriptions": [
+                "it is a drink",
+                "it contains caffeine",
+                "it is often served hot",
+                "it is made from roasted beans"
+            ],
+            "counter": 2,
+            "group": "B"
+        },
+        "river": {
+            "descriptions": [
+                "it flows through land",
+                "it contains water",
+                "it leads to lakes or oceans",
+                "fish can live in it"
+            ],
+            "counter": 2,
+            "group": "B"
+        },
+        "guitar": {
+            "descriptions": [
+                "it makes music",
+                "it has strings",
+                "it can be electric or acoustic",
+                "it is played by strumming or plucking"
+            ],
+            "counter": 2,
+            "group": "B"
+        },
+        "train": {
+            "descriptions": [
+                "it moves on tracks",
+                "it transports people or goods",
+                "it can be powered by electricity or fuel",
+                "it has multiple connected cars"
+            ],
+            "counter": 2,
+            "group": "B"
+        },
+        "cloud": {
+            "descriptions": [
+                "it is in the sky",
+                "it is made of water vapor",
+                "it can produce rain",
+                "it changes shape"
+            ],
+            "counter": 2,
+            "group": "B"
+        }
+    },
+    "done": {}
+}
