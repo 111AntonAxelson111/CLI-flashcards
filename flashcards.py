@@ -54,23 +54,6 @@ def get_all_desc(flashcards_data):
             all_desc.append(desc)
 
 
-    #flashcards_data['done']
-    #for lis_desc in word_data
-    #
-    #
-    #lis_done_descriptions:List[List[str]] = [done_words[word]['description'] for word in done_words]
-    #lis_not_done_desc:List[List[str]] = [not_done_words[word]['description'] for word in not_done_words]
-    #
-    #
-    #
-    #
-    #
-    #
-    #for desc in lis_not_done_desc.extend(lis_done_descriptions):
-    #    all_desc.append(desc)
-    #
-    ##later maybe all must be unique
-
     return all_desc
 
 def save_data(flashcards_data,full_json_path):
@@ -427,7 +410,6 @@ def CLI_flashcards():
 
 
 def main():
-
     CLI_flashcards()
 
 
